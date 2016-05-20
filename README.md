@@ -139,7 +139,7 @@ We now change the folder structure to eliminate the additional `workshop--adapti
     git checkout step-1-generate-view
     ```
     
-3. Then, follow the directions in the  [README](https://github.com/mobify/workshop--adaptivejs-site/blob/step-1-generate-view/README.md) of the Step 1 branch.
+3. Then, follow the directions in the  [README](https://github.com/mobify/workshop--adaptivejs-site-1x/blob/step-1-generate-view/README.md) of the Step 1 branch.
 
 ##Additional Information
 
